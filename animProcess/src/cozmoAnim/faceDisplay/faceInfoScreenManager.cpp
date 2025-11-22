@@ -67,8 +67,8 @@
 
 // CHANGE THIS TO BE YOUR PROJECT'S STUFF
 const std::string OSProject = "Girl OS";
-const std::string Creator = "By The Vector Girl Project Team";
-const std::string CreatorWebsite = "example.com";
+const std::string Creator = "By The Vector Girl Project";
+const std::string CreatorWebsite = "Team";
 
 // Log options
 #define LOG_CHANNEL    "FaceInfoScreenManager"
